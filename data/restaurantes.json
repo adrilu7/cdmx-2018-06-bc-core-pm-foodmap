@@ -1,0 +1,18 @@
+{
+  "students":[
+      {
+          "imagen": "../images/los milanesos.jpeg",
+          "nombre": "Los milanesos",
+          "ubicacion": "av.  Toluca y Glaciar. Col. Olivar de los padres.",
+          "precio": "$30 a $100 por persona",
+          "categoria": "Mexicana"
+      },
+      {
+        "imagen": "../images/los guisaditos.jpeg",
+        "nombre": "Los Guisaditos.com",
+        "ubicacion": "Puebla No. 385 Col. Roma Norte (esquina Acapulco). ",
+        "precio": "$30 a $100 por persona",
+        "categoria": "Mexicana"
+    }
+  ]
+}
